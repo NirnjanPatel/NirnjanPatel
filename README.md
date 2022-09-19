@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems of programmers or in teaching
 - 🌱 I’m currently pursing insternship on MERN Full Stack Development from Universal Informatics Indore (M.P.)
 - 💞️ I’m looking to collaborate on MERN Full Stack Development 
-- 📫 How to reach me 
+- 📫 Reach me through 
 - linkedin : https://www.linkedin.com/in/nirnjanpatel/
 
 <!---
