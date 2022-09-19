@@ -9,3 +9,7 @@
 NirnjanPatel/NirnjanPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Bio(About) 
+Student Intern for MERN Stack Development 🧑🏻‍💻 at Universal informatics 🌐Indore (M P)
+Seeking a Beginner Role for MERN Full Stack Developement as a Fresher
